@@ -69,4 +69,4 @@ psnr_value = calculate_psnr(img1, img2)
 print(f"PSNR值: {psnr_value:.2f} dB")
 ```
 ---
-![alt text](image.png)
+<img width="801" alt="image" src="https://github.com/user-attachments/assets/556a750c-7c55-49bb-a06d-0d3421fd757c" />
